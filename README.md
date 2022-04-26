@@ -4,4 +4,4 @@
 ![북극여우](./image/snowfox.jpg)
 
 
-kiu.ac.kr
+www.kiu.ac.kr
